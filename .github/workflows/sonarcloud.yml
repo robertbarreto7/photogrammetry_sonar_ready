@@ -34,6 +34,6 @@ jobs:
           # Si ya pusiste sonar-project.properties en la raíz no necesitas estos args.
           # Si no pusiste el archivo, reemplaza YOUR_ORG / YOUR_PROJECT_KEY por lo que viste en SonarCloud.
           args: >
-            -Dsonar.organization=YOUR_ORG
-            -Dsonar.projectKey=YOUR_PROJECT_KEY
+            -Dsonar.organization=robertbarreto7
+            -Dsonar.projectKey=robertbarreto7_photogrammetry_sonar_ready
             -Dsonar.sources=.
